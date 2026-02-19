@@ -1,4 +1,12 @@
-# Cartly Marketplace App
+# Cartly - Micro Marketplace
+
+**Deployed Links:**
+- **Frontend (Vercel):** [https://cartly-nu.vercel.app](https://cartly-nu.vercel.app)
+- **Backend (Render):** [https://cartly-ym14.onrender.com](https://cartly-ym14.onrender.com)
+
+**Test Credentials:**
+- **Email:** `alice@example.com`
+- **Password:** `password123`
 
 A full-stack marketplace application built with Node.js, Express, React, and TailwindCSS.
 
