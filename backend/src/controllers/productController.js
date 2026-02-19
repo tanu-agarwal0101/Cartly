@@ -48,7 +48,8 @@ exports.getProducts = async (req, res) => {
       },
     });
   } catch (error) {
-    res.status(500).json({ error: 'Server error' });
+    console.error('Error fetching products:', error);
+    res.status(500).json({ error: 'Server error: ' + error.message });
   }
 };
 
